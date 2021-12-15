@@ -1,0 +1,5 @@
+Fecha; Hora; Nombre Servicio; Gravedad; Mensaje Error
+09/07/2020,09:38,ScriptCache.exe,9,Out of memory
+08/08/2020,16:19,ServiceNotifications.exe,8,Email failed
+12/08/2020,19:19,ServiceNotifications.exe,8,Email failed
+17/07/2020,09:38,ScriptCache.exe,9,Out of memory

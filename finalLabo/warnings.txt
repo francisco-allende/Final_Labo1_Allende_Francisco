@@ -1,0 +1,5 @@
+Fecha; Hora; Nombre Servicio; Gravedad; Mensaje Error
+11/08/2020,09:33,ServicioClientes.exe,3,Out of memory
+11/08/2020,09:56,ServiceNotifications.exe,3,Log error
+14/08/2020,09:33,ServicioClientes.exe,3,Out of memory
+18/08/2020,21:25,ServiceNotifications.exe,3,Log error

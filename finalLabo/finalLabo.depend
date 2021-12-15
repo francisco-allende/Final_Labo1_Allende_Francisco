@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1639362537 source:c:\users\usuario\desktop\molde final\finallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1639362511 c:\users\usuario\desktop\molde final\finallabo\linkedlist.h
+
+1639363171 source:c:\users\usuario\desktop\molde final\finallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"movies.h"
+
+1639363065 source:c:\users\usuario\desktop\molde final\finallabo\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+
+1639362814 c:\users\usuario\desktop\molde final\finallabo\movies.h
+
+1639362620 source:c:\users\usuario\desktop\molde final\finallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"movies.h"
+	"parser.h"
+
+1639362918 c:\users\usuario\desktop\molde final\finallabo\parser.h
+
+1639362944 source:c:\users\usuario\desktop\molde final\finallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"movies.h"
+
+1639362647 c:\users\usuario\desktop\molde final\finallabo\controller.h
+
+1639362537 source:c:\users\usuario\desktop\modelos de final\molde final\finallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1639362511 c:\users\usuario\desktop\modelos de final\molde final\finallabo\linkedlist.h
+
+1639363171 source:c:\users\usuario\desktop\modelos de final\molde final\finallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"movies.h"
+
+1639362647 c:\users\usuario\desktop\modelos de final\molde final\finallabo\controller.h
+
+1639362918 c:\users\usuario\desktop\modelos de final\molde final\finallabo\parser.h
+
+1639362814 c:\users\usuario\desktop\modelos de final\molde final\finallabo\movies.h
+
+1639363065 source:c:\users\usuario\desktop\modelos de final\molde final\finallabo\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+
+1639362944 source:c:\users\usuario\desktop\modelos de final\molde final\finallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"movies.h"
+
+1639362537 source:c:\users\usuario\desktop\molde final codear aca\finallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1639362511 c:\users\usuario\desktop\molde final codear aca\finallabo\linkedlist.h
+
+1639573942 source:c:\users\usuario\desktop\molde final codear aca\finallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"LogEntry.h"
+	"parser.h"
+
+1639572855 c:\users\usuario\desktop\molde final codear aca\finallabo\logentry.h
+
+1639573834 source:c:\users\usuario\desktop\molde final codear aca\finallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"LogEntry.h"
+
+1639573220 c:\users\usuario\desktop\molde final codear aca\finallabo\controller.h
+
+1639570695 c:\users\usuario\desktop\molde final codear aca\finallabo\parser.h
+
+1639571522 source:c:\users\usuario\desktop\molde final codear aca\finallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"LogEntry.h"
+
+1639572856 source:c:\users\usuario\desktop\molde final codear aca\finallabo\logentry.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LogEntry.h"
+
