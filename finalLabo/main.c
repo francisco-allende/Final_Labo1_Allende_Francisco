@@ -40,7 +40,7 @@ int main()
                 gets(nombreArchivo);
             }
 
-            if(ll_isEmpty(listaLogs) || strcmp(nombreArchivo, "log.csv") != 0)
+            if(ll_isEmpty(listaLogs) || strcmp(nombreArchivo, "log.txt") != 0)
             {
                 if(!controller_loadFromText(nombreArchivo, listaLogs))
                 {

@@ -91,7 +91,7 @@
 
 1639362511 c:\users\usuario\desktop\molde final codear aca\finallabo\linkedlist.h
 
-1639573942 source:c:\users\usuario\desktop\molde final codear aca\finallabo\controller.c
+1639574446 source:c:\users\usuario\desktop\molde final codear aca\finallabo\controller.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -114,14 +114,14 @@
 
 1639570695 c:\users\usuario\desktop\molde final codear aca\finallabo\parser.h
 
-1639571522 source:c:\users\usuario\desktop\molde final codear aca\finallabo\parser.c
+1639574468 source:c:\users\usuario\desktop\molde final codear aca\finallabo\parser.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"LinkedList.h"
 	"LogEntry.h"
 
-1639572856 source:c:\users\usuario\desktop\molde final codear aca\finallabo\logentry.c
+1639574524 source:c:\users\usuario\desktop\molde final codear aca\finallabo\logentry.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
